@@ -1,0 +1,7 @@
+# configuração e dados de quem usa: nunca versionar
+config.json
+*.pdf
+*.csv
+*.xlsx
+dados/
+.DS_Store
